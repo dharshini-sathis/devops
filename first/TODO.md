@@ -1,0 +1,3 @@
+- [x] Update App.jsx to implement calculator component with state for display, previous value, operation, and calculation logic
+- [x] Update App.css to style the calculator with a grid layout for buttons and display
+- [x] Run npm run dev to test the calculator functionality
